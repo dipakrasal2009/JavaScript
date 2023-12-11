@@ -1,0 +1,10 @@
+var Marks1 = 70;
+var marks2 = 90;
+var marks3 = 99;
+var marks4 = 77;
+var marks5 = 56;
+console.log(Marks1);
+console.log(marks2);
+console.log(marks3);
+console.log(marks4);
+console.log(marks5);
