@@ -20,5 +20,6 @@ console.log("Display the table that you want ")
 rl.question('Enter a number: ', (input) => {
   const number = parseInt(input);
 	table(number);
+
 	rl.close();
 })
